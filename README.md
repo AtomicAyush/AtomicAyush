@@ -14,6 +14,7 @@ CS student at the **University of Illinois Urbana-Champaign** (class of 2029). I
 | Project | What it is |
 |---|---|
 | [Lotus Bud Academy](https://lotusbudacademy.com/software) | Full-stack daycare platform (iOS, Android, web) in daily production use |
+| [Edge ML Inference Benchmark](https://github.com/AtomicAyush/edge-ml-bench) | YOLOv8n at FP32/FP16/INT8 on Apple silicon's CPU, GPU and Neural Engine: 8× faster at equal mAP, INT8 made accurate with calibration and mixed precision, and an iPhone app timing the full pipeline |
 | [NoteFlash](https://github.com/AtomicAyush/NoteFlash) | iPhone/iPad app that turns notes, PDFs, and slides into flashcards with on-device Apple Intelligence |
 | [FaceUnlock](https://github.com/AtomicAyush/FaceUnlock) | On-device face recognition for macOS with Vision, Core ML, and liveness checks |
 | [Volt](https://github.com/AtomicAyush/Volt) | macOS battery menu bar app: SMC readings, Bluetooth LE, AirPods via Continuity |
