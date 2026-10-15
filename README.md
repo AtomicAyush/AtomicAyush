@@ -1,8 +1,8 @@
-### Hi, I'm Ayush 👋
+### Hi, I'm Ayush
 
 CS student at the **University of Illinois Urbana-Champaign** (class of 2029). I write battery-management firmware for an electric race car, build iOS and macOS apps, and do machine learning research.
 
-🌐 **[ayush.akansal.com](https://ayush.akansal.com)** · 💼 [LinkedIn](https://www.linkedin.com/in/kansalayush) · ✉️ [kansalayush2008@gmail.com](mailto:kansalayush2008@gmail.com)
+**[ayush.akansal.com](https://ayush.akansal.com)** · [LinkedIn](https://www.linkedin.com/in/kansalayush) · [kansalayush2008@gmail.com](mailto:kansalayush2008@gmail.com)
 
 **Now**
 - **Software Engineer at [Lab AK](https://labak.ai):** led development of Model mAKe Smith (run and compare AI models on edge hardware) and **[Model Analyzer](https://mma.labak.ai)** (inspect any ONNX/TFLite/PyTorch model in your browser)
