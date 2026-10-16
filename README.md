@@ -1,6 +1,6 @@
 ### Hi, I'm Ayush
 
-CS student at the **University of Illinois Urbana-Champaign** (class of 2029). I write battery-management firmware for an electric race car, build iOS and macOS apps, and do machine learning research.
+Computer Science student at the **University of Illinois Urbana-Champaign** (class of 2029). I write battery-management firmware for an electric race car, build iOS and macOS apps, and do machine learning research.
 
 **[ayush.akansal.com](https://ayush.akansal.com)** · [LinkedIn](https://www.linkedin.com/in/kansalayush) · [kansalayush2008@gmail.com](mailto:kansalayush2008@gmail.com)
 
