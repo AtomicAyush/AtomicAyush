@@ -14,8 +14,8 @@ CS student at the **University of Illinois Urbana-Champaign** (class of 2029). I
 | Project | What it is |
 |---|---|
 | [Lotus Bud Academy](https://lotusbudacademy.com/software) | Full-stack daycare platform (iOS, Android, web) in daily production use |
-| [Edge ML Inference Benchmark](https://github.com/AtomicAyush/edge-ml-bench) | YOLOv8n at FP32/FP16/INT8 on Apple silicon's CPU, GPU and Neural Engine: 8× faster at equal mAP, INT8 made accurate with calibration and mixed precision, and an iPhone app timing the full pipeline |
-| [Islet](https://github.com/AtomicAyush/Islet) | A Dynamic Island for the MacBook notch with 31 features, including a per-app volume mixer on Core Audio process taps, mic mute, and live Claude Code, Codex and Gemini agent status |
+| [Edge ML Inference Benchmark](https://github.com/AtomicAyush/edge-ml-bench) | YOLOv8n at FP32/FP16/INT8 on Apple silicon's CPU, GPU and Neural Engine: FP16 on the Neural Engine 8× faster than FP32 on the CPU at equal mAP, INT8 made accurate with calibration and mixed precision, and an iPhone app timing the full pipeline |
+| [Islet](https://github.com/AtomicAyush/Islet) | A Dynamic Island for the MacBook notch with 31 features, including a per-app volume mixer on Core Audio process taps, mic mute, and live Claude Code, Codex, and Gemini agent status |
 | [NoteFlash](https://github.com/AtomicAyush/NoteFlash) | iPhone/iPad app that turns notes, PDFs, and slides into flashcards with on-device Apple Intelligence |
 | [FaceUnlock](https://github.com/AtomicAyush/FaceUnlock) | On-device face recognition for macOS with Vision, Core ML, and liveness checks |
 | [Volt](https://github.com/AtomicAyush/Volt) | macOS battery menu bar app: SMC readings, Bluetooth LE, AirPods via Continuity |
