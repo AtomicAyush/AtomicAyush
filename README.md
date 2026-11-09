@@ -5,7 +5,7 @@ Computer Science student at the **University of Illinois Urbana-Champaign** (cla
 **[ayush.akansal.com](https://ayush.akansal.com)** · [LinkedIn](https://www.linkedin.com/in/kansalayush) · [kansalayush2008@gmail.com](mailto:kansalayush2008@gmail.com)
 
 **Now**
-- **Co-Founder & Software Engineer at [Lab AK](https://labak.ai):** led development of Model mAKe Smith (run and compare AI models, including customers' own, on edge hardware) and **[Model Analyzer](https://mma.labak.ai)** (inspect any ONNX/TFLite/PyTorch model in your browser)
+- **Co-Founder & Software Engineer at [EdgeAI XPU](https://edgeaixpu.com):** led development of the EdgeAI XPU platform (run and compare AI models, including customers' own, on edge hardware) and **[XPU Lens](https://edgeaixpu.com/lens/)** (inspect any ONNX/TFLite/PyTorch model in your browser)
 - **Firmware Developer at Illini Electric Motorsports:** real-time C on FreeRTOS for the car's battery management system
 - **Open to Summer 2027 internships** in software, embedded, and ML
 
